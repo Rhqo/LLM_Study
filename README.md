@@ -17,3 +17,9 @@
 [Chap. 8 고급 오픈 소스 LLM 파인튜닝](./Chapter/Chap_8.md)
 
 [Chap. 9 LLM을 프로덕션 환경에서 사용하기](./Chapter/Chap_9.md)
+
+---
+
+# 프롬프트 엔지니어링
+
+[Prompt Engineering](./Chapter/Prompt_Engineering.md)
