@@ -14,6 +14,8 @@ Large Language Model
 
 `셀프 어텐션`
 
+![Self Attention](./Img/Chap_1_1.png)
+
 `NLP (자연어 처리)`
 
 - 자기회귀 작업
